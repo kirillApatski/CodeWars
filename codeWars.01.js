@@ -3,4 +3,4 @@ function sayHello( name, city, state ) {
     return `Hello, ${userName}! Welcome to ${city}, ${state}`; 
 }
 
-console.log(sayHello(['John', 'Smith'], 'Phoenix', 'Arizona'));dsd
+console.log(sayHello(['John', 'Smith'], 'Phoenix', 'Arizona'));
